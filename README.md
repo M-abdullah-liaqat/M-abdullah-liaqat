@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdullah! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software Engineer</a>
+<h1>Hi, I'm Abdullah! <br/><a href="https://github.com/abdullahcpplus">Programmer</a>, <a href="https://www.linkedin.com/in/muhammad-abdullah-5ab666354/">Software Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
