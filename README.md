@@ -1,26 +1,25 @@
 <h1>Hi, I'm Abdullah! <br/>Full Stack Node js Developer | React & Nodes js
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in C++](https://github.com/abdullahcpplus/DSA-Practice)
-- <b>Visuals Explaination of Game of Life</b>
-  - [Visuals with Raylib](https://github.com/abdullahcpplus/Game-of-life)
-- <b>Games Project</b>
-  - [Snake Game](https://github.com/abdullahcpplus/SnakeGame)
-  - [TicTacToe game](https://github.com/abdullahcpplus/TicTacToe)
-  - [Rotating Ball](https://github.com/abdullahcpplus/Rotating-Ball)
-- <b>Commercial used Software</b>
-  - [Super Market Billing System](https://github.com/abdullahcpplus/Super-market-billing-system)
-  - [Credit Card Validator](https://github.com/abdullahcpplus/Credit-Card-Validator)
-  - [Pizza Shop Manager](https://github.com/abdullahcpplus/Pizza-shop-manager)
-  - [Simple Calculator](https://github.com/abdullahcpplus/Simplr_Calculator)
-- <b>Software with Database</b>
-  - [Profits Recorder](https://github.com/abdullahcpplus/Profits_Recorder)
-  - [Registration system](https://github.com/abdullahcpplus/Registration_System)
-- <b>Fun Projects</b>
-  - [Quick quiz](https://github.com/abdullahcpplus/Quick-Quiz)
-  - [Make house with elements](https://github.com/abdullahcpplus/Fun-with-elements)
+- <b>[BitLinks - URL shortner Web Application](https://shortenurl-pied.vercel.app/) </b>
+
+  BitLinks is a URL shortener app. Here you can shorten your long links and simplify them.
+- <b>[BitTree - Links Manager](https://shortenurl-pied.vercel.app/) </b>
+
+  BitTree is a links manager app where you can display all your social media and other links on a single page.
+- <b>[Chatly chat app - Websockets + Database](https://shortenurl-pied.vercel.app/) </b>
+
+  Chatly is a chat app that sends messages using WebSockets. If the receiver is disconnected, the message is stored in the database, and when the user reconnects, the message is sent to them.
+- <b>[Your Way - Trip planner Web application](https://shortenurl-pied.vercel.app/) </b>
+
+  Your Way is a travel planning app where you can create a complete plan for your journey. Simply provide your destination, the number of days, and the number of people traveling, and Your Way will make a full itinerary with the best hotels and places to visit.
+- <b>[AHR Trades Full-stack E-commerce Web Application](https://shortenurl-pied.vercel.app/) </b>
+
+  AHR Traders in this web application users can buy laptops online.Another website named AHR admin area is used to add and delete products and receive orders.
+- <b>[Deluxe - WorkFlow manager](https://shortenurl-pied.vercel.app/) </b>
+
+  Deluxe is a workflow management app. Users can create workflows with the help of Deluxe. They can also connect their Slack, Discord, and Notion accounts to Deluxe. Deluxe integrates with Slack, Discord, and Notion, allowing users to send messages as well.
 <h2>Skills</h2>
 
 - Good Programming skills in c\c++
